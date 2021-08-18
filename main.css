@@ -1,0 +1,34 @@
+
+.bol{
+    margin: 100px;
+    text-align: center;
+
+    
+}
+.control{
+    width: 500px;
+    padding: 10px;
+
+}
+.btn{
+    color: brown;
+    margin-top: 50px;
+    background-color: black;
+    margin-right: auto;
+    width: 80px;
+}
+.control{
+    margin: 10px;
+}
+.age{
+    margin-right: 10px;
+}
+.tab{
+   
+    margin: auto;
+    
+}
+.delete{
+    background-color: black;
+    color: red;
+}
